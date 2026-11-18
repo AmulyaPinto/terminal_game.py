@@ -13,7 +13,7 @@ A branching terminal adventure game built in Python. Play as a researcher invest
 ## How to Play
 1. Run the script in your preferred code editor or terminal.
 2. Read the introduction, which explains antibiotic resistance and your mission as the researcher on the case.
-3. At each decision point, type the letter of your choice ('a', 'b', or 'c') and press Enter to continue.
+3. At each decision point, type the letter of your choice (`a`, `b`, or `c`) and press Enter to continue.
 4. Pay attention to your Lab Credibility, shown after each scene. Poor decisions (and some bad luck) can cost you credibility, and dropping too low ends the investigation early.
 5. Reach Scene 5 and choose a treatment plan to close the case. Your ending depends on what you uncovered along the way.
 
