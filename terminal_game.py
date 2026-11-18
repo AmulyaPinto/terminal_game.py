@@ -2,6 +2,8 @@
 # SUPERBUG DOWN: THE ANTIBIOTIC RESISTANCE FILES📂
 # ----------------------------------------------------------------------------------------------------------------------------------------------------
 
+# Author's Note and Disclaimer: see README.md
+
 # Importing all the modules required for this adventure
 import random
 import sys
